@@ -1,0 +1,1 @@
+{ "extends": "eslint-config-turbocharge/react/tsconfig.json" }

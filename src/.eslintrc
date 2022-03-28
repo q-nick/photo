@@ -1,0 +1,4 @@
+{
+  "extends": "turbocharge/react",
+  "root": true
+}
